@@ -1,5 +1,5 @@
-.cabecalho}
-    background-color: #BA497F;
+.cabecalho{
+ background-color: #BA497F;
     color: white;
     disp    justify
 lay:flex;
@@ -8,5 +8,3 @@ lay:flex;
 .cabecalho-imagem{
     width: 20%;
 }
-
-
