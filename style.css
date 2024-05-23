@@ -1,3 +1,8 @@
+*
+margin: 0;
+padding: 0;
+}
+
 .cabecalho{
     background-color: #BA497F;
     color: white;
@@ -13,3 +18,4 @@
 }
 .cabecalho-lista-item{
     display: inline-block;
+    margin: 0 16px;
